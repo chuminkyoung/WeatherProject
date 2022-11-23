@@ -1,2 +1,2 @@
 # WeatherProject
-<a href="https://chuminkyoung.github.io/WeatherProject/" target="_blank">바로가기</a>
+<a href="https://chuminkyoung.github.io/WeatherProject/" target="_blank">https://chuminkyoung.github.io/WeatherProject/</a>
